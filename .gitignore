@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Model files
+*.h5
+*.pt
+*.onnx
+*.pkl
+*.joblib
+
+# Data folders
+data/
+dataset/
+datasets/
+images/
+train/
+test/
+validation/
+models/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
